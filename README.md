@@ -6,7 +6,7 @@ A cli to create a very simple static server.
 
 #### Install
 
-```javascript
+```bash
 npm install -g static-server-cli
 ```
 
