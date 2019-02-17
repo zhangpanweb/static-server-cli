@@ -1,0 +1,22 @@
+{
+  "name": "static-server-cli",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static server",
+    "cli"
+  ],
+  "author": "zhangpanweb",
+  "license": "ISC",
+  "bin": {
+    "static-server-cli": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.19.0",
+    "express": "^4.16.4"
+  }
+}
